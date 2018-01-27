@@ -23,7 +23,7 @@ widget2:
   title: "How to restore Net Neutrality?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: mesh.jpg
-  text: 'People invented encrypted messaging apps to blindfold Internet service providers but the messaging server itself can be blocked for good. Short-Range Wireless Communication technologies (<a href="https://developer.apple.com/documentation/corebluetooth">BLE</a>, <a href="https://developer.android.com/guide/topics/connectivity/wifip2p.html">WifiP2P</a>) might be the <b>cure</b>.'
+  text: 'What if we connect every nearby mobile devices directly and bypass every cell phone tower. Yes you are right! Short-Range Wireless Communication technologies such as <a href="https://developer.apple.com/documentation/corebluetooth">BLE</a> and <a href="https://developer.android.com/guide/topics/connectivity/wifip2p.html">WifiP2P</a>, might be the <b>cure</b>.'
 widget3:
   title: "Fun Apps using BLE/WifiP2P"
   url: 'https://github.com/Phlow/feeling-responsive'
