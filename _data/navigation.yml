@@ -2,6 +2,18 @@
   url: "/"
   side: left
 
+- title: Violations Of Net Neutrality
+  url: "/violations-of-net-neutrality/"
+  side: left
+  
+- title: How To Restore Net Neutrality
+  url: "/solution/"
+  side: left
+  
+- title: Fun APPs Using BLE/WifiDirect
+  url: "/fun-apps/"
+  side: left
+  
 - title: "Search"
   url: "/search/"
   side: right

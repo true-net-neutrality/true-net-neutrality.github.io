@@ -15,18 +15,18 @@ breadcrumb: true
 layout: frontpage
 widget1:
   title: "What is Net Neutrality"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'https://true-net-neutrality.github.io/violations-of-net-neutrality/'
   image: balance.jpg
   <!--image: widget-1-302x182.jpg-->
   text: '<a href="https://en.wikipedia.org/wiki/Net_neutrality">Net neutrality</a> is the principle that governments should mandate Internet service providers to treat all data on the Internet the same, and not discriminate or charge differently by user, content, website, platform, application, type of attached equipment, or method of communication.'
 widget2:
   title: "How to restore Net Neutrality?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: 'https://true-net-neutrality.github.io/solution/'
   image: mesh.jpg
   text: 'What if we connect every nearby mobile devices directly and bypass every cell phone tower. Yes you are right! Short-Range Wireless Communication technologies such as <a href="https://developer.apple.com/documentation/corebluetooth">BLE</a> and <a href="https://developer.android.com/guide/topics/connectivity/wifip2p.html">WifiP2P</a>, might be the <b>cure</b>.'
 widget3:
   title: "Fun Apps using BLE/WifiP2P"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'https://true-net-neutrality.github.io/fun-apps/'
   image: app_store.jpg
   <!--image: widget-github-303x182.jpg-->
   text: 'Short-Range Wireless Communication can also be fun. Check out the following apps: <br />1. <a href="https://itunes.apple.com/us/app/hi-there-p2p/id1276567474?ls=1&mt=8">HiThere</a>: A proximity based face-to-face dating app. <br />2. <a href="https://play.google.com/store/apps/details?id=com.wifidirect.ble.seanxu.guesswhat">Guess What</a>: A near range message sharing tool.'
