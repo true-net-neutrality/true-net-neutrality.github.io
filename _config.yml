@@ -59,8 +59,8 @@ gems:
 #   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
 #               /____/
 #
-paginate: 5                      # Paginates all X entries
-paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+# paginate: 5                      # Paginates all X entries
+# paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
 # Theme works best with Kramdown (using the table of contents function)
@@ -122,7 +122,11 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: phlow     # Default author for posts
-
+  -
+    scope:
+      path: "*blog*"
+    values:
+      sitemap: false
 
 
 #       _   __            _             __  _
